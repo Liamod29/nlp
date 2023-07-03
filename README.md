@@ -1,4 +1,11 @@
 # nlp
+##**Garden.py**
+
+This file demonstrates the use of spacy to tokenise a sentence, and then label and provide entities for the words in the sentence. This
+allows for python to be able to show the meaning of individual words, and shows how spacy can group these words into categories
+
+![image](https://github.com/Liamod29/nlp/assets/46330137/13dd220e-0c46-4a71-af4c-fe3fdd0dd98b)
+
 
 ## **Semantic.py **
 
